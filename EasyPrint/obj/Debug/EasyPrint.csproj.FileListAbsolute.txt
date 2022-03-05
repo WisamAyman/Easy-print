@@ -1,0 +1,10 @@
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\bin\Debug\EasyPrint.exe.config
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\bin\Debug\EasyPrint.exe
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\bin\Debug\EasyPrint.pdb
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\obj\Debug\EasyPrint.csprojAssemblyReference.cache
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\obj\Debug\EasyPrint.Form1.resources
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\obj\Debug\EasyPrint.Properties.Resources.resources
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\obj\Debug\EasyPrint.csproj.GenerateResource.cache
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\obj\Debug\EasyPrint.csproj.CoreCompileInputs.cache
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\obj\Debug\EasyPrint.exe
+C:\Users\Nicklas\source\repos\EasyPrint\EasyPrint\obj\Debug\EasyPrint.pdb
